@@ -1,5 +1,5 @@
 # TCC_Alarme-de-Incendio
-Projeto de conclusão do curso técnico de Eletroeletrônica do Colégio Técnico da Unicamp (COTUCA).
+Projeto de conclusão do curso técnico de Eletroeletrônica do Colégio Técnico da Unicamp (COTUCA) em agosto de 2017.
 
 O projeto consiste em um simulador de alarme de incêncio controlado por `Arduino`. 
 Este alarme contém um sensor de temperatura (LM35), sensor de fumaça (Chave Óptica) e um sensor de Luz (P22).
