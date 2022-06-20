@@ -1,3 +1,5 @@
+<img src="[https://raw.githubusercontent.com/vinicius-solon-silva/Food-Finder/main/img/FoodFinder.png](https://raw.githubusercontent.com/vinicius-solon-silva/TCC_COTUCA_Alarme-de-Incendio/main/photos/IMG_20170923_103730088_HDR.jpg)" alt="drawing" width="500"/>
+
 # TCC_Alarme-de-Incendio
 Projeto de conclusão do curso técnico de Eletroeletrônica do Colégio Técnico da Unicamp (COTUCA) em agosto de 2017.
 
